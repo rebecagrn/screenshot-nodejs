@@ -1,0 +1,11 @@
+{
+  "name": "screenshot-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rebecagrn/screenshot-nodejs.git",
+  "author": "Rebeca Grn <rebecagpacheco@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^4.0.5"
+  }
+}
